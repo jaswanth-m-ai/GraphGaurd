@@ -1,4 +1,4 @@
-# GraphGuard – Graph-Based Financial Fraud Detection
+# GraphGuard – Graph-Based Financial Fraud Detection 
 
 ## About the Project
 
@@ -126,3 +126,5 @@ Displays the total number of transactions, normal transactions, fraud-labelled t
 
 ### 2. Fraud Detection
 Allows the user to select a transaction and view its predicted fraud classification and estimated fraud score
+
+Live: https://graphgaurd.streamlit.app/
